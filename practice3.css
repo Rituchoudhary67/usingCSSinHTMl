@@ -1,0 +1,17 @@
+/* .heading{
+    color:chartreuse;
+}
+tr{
+    background-color: deeppink;
+}
+.tamil{
+    background-color: cyan;
+}
+#int{
+    background-color: blue;
+} */
+/* using attribute tag */
+img[alt="image2"]{
+    width: 100px;
+    height: 100px;
+}
